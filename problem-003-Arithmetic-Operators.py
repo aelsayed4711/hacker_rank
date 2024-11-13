@@ -1,1 +1,6 @@
-# https://www.hackerrank.com/challenges/python-arithmetic-operators/problem?isFullScreen=true
+#------------------------------------------------------------------------------------------------
+# URL........: https://www.hackerrank.com/challenges/python-arithmetic-operators/problem?isFullScreen=true
+#
+# Description:
+#
+#-------------------------------------------------------------------------------------------------

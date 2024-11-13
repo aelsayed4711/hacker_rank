@@ -1,21 +1,39 @@
-# hacker_rank
+Hacker Rank
+===========
 
-Overview:
-   this project include answers to all python challenges found in hackerrank website
+Overview
+--------
+   This project include answers to all python challenges found in hackerrank website
     https://www.hackerrank.com/dashboard
     
+### Environment Setting
 
-1) Create python virtual environment
-   python -m venv .venv
+1. **Create python virtual environment**
 
-2) activate .venv environment
-    source .venv/Scripts/activate
+    ```
+        // Open new terminal, select git bash and type following command
+        python -m venv .venv
+    ````
 
-3) Install required packages
-    pip install pytest
+2. **Activate .venv environment**
 
-4) create requirements.txt file
-    pip freeze > requirements.txt
+   ```
+        // type follwoing command
+         source .venv/Scripts/activate
+   
 
-5) Git commands cheat sheet
+3. **Install required packages**
+   ```
+        // type follwoing command
+        pip install pytest
+   ```
+    
+
+4. **create requirements.txt file**
+    ```
+        // type following command
+        pip freeze > requirements.txt
+    ```
+
+4. **Git commands cheat sheet**
     https://education.github.com/git-cheat-sheet-education.pdf
