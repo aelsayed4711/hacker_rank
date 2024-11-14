@@ -1,6 +1,5 @@
-# https://www.hackerrank.com/challenges/nested-list/problem?isFullScreen=true
 #------------------------------------------------------------------------------------------------
-# URL........:
+# URL........: https://www.hackerrank.com/challenges/nested-list/problem?isFullScreen=true
 #
 # Description:
 #

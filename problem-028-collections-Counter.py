@@ -1,6 +1,5 @@
-# https://www.hackerrank.com/challenges/collections-counter/problem?isFullScreen=true
 #------------------------------------------------------------------------------------------------
-# URL........:
+# URL........: https://www.hackerrank.com/challenges/collections-counter/problem?isFullScreen=true
 #
 # Description:
 #

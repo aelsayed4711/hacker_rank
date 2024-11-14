@@ -1,6 +1,5 @@
-# https://www.hackerrank.com/challenges/itertools-permutations/problem?isFullScreen=true
 #------------------------------------------------------------------------------------------------
-# URL........:
+# URL........: https://www.hackerrank.com/challenges/itertools-permutations/problem?isFullScreen=true
 #
 # Description:
 #

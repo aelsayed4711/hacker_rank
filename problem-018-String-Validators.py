@@ -1,6 +1,5 @@
-# https://www.hackerrank.com/challenges/string-validators/problem?isFullScreen=true
 #------------------------------------------------------------------------------------------------
-# URL........:
+# URL........: https://www.hackerrank.com/challenges/string-validators/problem?isFullScreen=true
 #
 # Description:
 #

@@ -1,6 +1,5 @@
-# https://www.hackerrank.com/challenges/alphabet-rangoli/problem?isFullScreen=true
 #------------------------------------------------------------------------------------------------
-# URL........:
+# URL........: https://www.hackerrank.com/challenges/alphabet-rangoli/problem?isFullScreen=true
 #
 # Description:
 #

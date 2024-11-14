@@ -1,6 +1,5 @@
-# https://www.hackerrank.com/challenges/text-alignment/problem?isFullScreen=true
 #------------------------------------------------------------------------------------------------
-# URL........:
+# URL........: https://www.hackerrank.com/challenges/text-alignment/problem?isFullScreen=true
 #
 # Description:
 #

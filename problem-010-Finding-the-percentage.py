@@ -1,6 +1,5 @@
-# https://www.hackerrank.com/challenges/finding-the-percentage/problem?isFullScreen=true
 #------------------------------------------------------------------------------------------------
-# URL........:
+# URL........: https://www.hackerrank.com/challenges/finding-the-percentage/problem?isFullScreen=true
 #
 # Description:
 #

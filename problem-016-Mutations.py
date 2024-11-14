@@ -1,6 +1,5 @@
-# https://www.hackerrank.com/challenges/python-mutations/problem?isFullScreen=true
 #------------------------------------------------------------------------------------------------
-# URL........:
+# URL........: https://www.hackerrank.com/challenges/python-mutations/problem?isFullScreen=true
 #
 # Description:
 #

@@ -1,6 +1,5 @@
-# https://www.hackerrank.com/challenges/python-lists/problem?isFullScreen=true
 #------------------------------------------------------------------------------------------------
-# URL........:
+# URL........: https://www.hackerrank.com/challenges/python-lists/problem?isFullScreen=true
 #
 # Description:
 #

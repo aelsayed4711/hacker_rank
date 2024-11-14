@@ -1,6 +1,5 @@
-# https://www.hackerrank.com/challenges/capitalize/problem?isFullScreen=true
 #------------------------------------------------------------------------------------------------
-# URL........:
+# URL........: https://www.hackerrank.com/challenges/capitalize/problem?isFullScreen=true
 #
 # Description:
 #

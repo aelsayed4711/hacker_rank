@@ -1,6 +1,5 @@
-# https://www.hackerrank.com/challenges/find-a-string/problem?isFullScreen=true
 #------------------------------------------------------------------------------------------------
-# URL........:
+# URL........: https://www.hackerrank.com/challenges/find-a-string/problem?isFullScreen=true
 #
 # Description:
 #

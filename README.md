@@ -35,5 +35,5 @@ Overview
         pip freeze > requirements.txt
     ```
 
-4. **Git commands cheat sheet**
+4. **Git commands cheat sheet**  
     https://education.github.com/git-cheat-sheet-education.pdf

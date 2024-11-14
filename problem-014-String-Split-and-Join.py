@@ -1,6 +1,5 @@
-# https://www.hackerrank.com/challenges/python-string-split-and-join/problem?isFullScreen=true
 #------------------------------------------------------------------------------------------------
-# URL........:
+# URL........: https://www.hackerrank.com/challenges/python-string-split-and-join/problem?isFullScreen=true
 #
 # Description:
 #

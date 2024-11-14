@@ -1,6 +1,5 @@
-# https://www.hackerrank.com/challenges/designer-door-mat/problem?isFullScreen=true
 #------------------------------------------------------------------------------------------------
-# URL........:
+# URL........: https://www.hackerrank.com/challenges/designer-door-mat/problem?isFullScreen=true
 #
 # Description:
 #

@@ -1,6 +1,5 @@
-# https://www.hackerrank.com/challenges/whats-your-name/problem?isFullScreen=true
 #------------------------------------------------------------------------------------------------
-# URL........:
+# URL........: https://www.hackerrank.com/challenges/whats-your-name/problem?isFullScreen=true
 #
 # Description:
 #

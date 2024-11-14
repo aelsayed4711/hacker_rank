@@ -1,6 +1,5 @@
-# https://www.hackerrank.com/challenges/swap-case/problem?isFullScreen=true
 #------------------------------------------------------------------------------------------------
-# URL........:
+# URL........: https://www.hackerrank.com/challenges/swap-case/problem?isFullScreen=true
 #
 # Description:
 #
