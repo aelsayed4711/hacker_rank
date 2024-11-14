@@ -1,7 +1,11 @@
 import os
-from problem_006_Write_a_function import is_leap
+import leap_year as ly
 
-def test_leap_year(capsys):
-    is_leap(2000)
-    out, err = capsys.readouterr()    
+def test_leap_year():
+    out = ly.is_leap(2000)
+    #out, err = capsys.readouterr()    
     assert out == "True"
+    
+    
+if __name__ == "__main__":
+    test_leap_year()
