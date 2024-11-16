@@ -3,8 +3,8 @@ Hacker Rank
 
 Overview
 --------
-   This project include answers to all python challenges found in hackerrank website
-    https://www.hackerrank.com/dashboard
+   This project include answers to all python problems found in [hackerrank](
+    https://www.hackerrank.com/dashboard) website
     
 ### Environment Setting
 
